@@ -49,7 +49,7 @@ There are two problems when setting up connectivity between the Cloud Platform A
 4. Open a secure tunnel for HTTP and RFC
 5. Communicate through the tunnel via HTTP or RFC
 
-<!--border--> ![Image depicting overview](overview.png)
+<!-- border -->              ![Image depicting overview](overview.png)
 
 ---
 
