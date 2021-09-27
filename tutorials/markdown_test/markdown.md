@@ -108,6 +108,7 @@ The mapping should now look something like this. Check that the status = `Reacha
 ![Image depicting step1a-scc-resources-sid](step1a-scc-resources-sid.png)  
 
 [DONE]
+
 ---
 
 ### Step 3: Specify the remote function modules and BAPIs
