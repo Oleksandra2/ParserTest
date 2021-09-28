@@ -30,6 +30,7 @@ parser: v2
 
 ## Intro
 
+---
 
 
 Throughout this tutorial, replace `XXX` with your initials or group number.
