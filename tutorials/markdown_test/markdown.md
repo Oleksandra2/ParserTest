@@ -81,7 +81,7 @@ First, you need to connect your ABAP on-premise system to a Neo subaccount by me
 
 Your configuration should now look like this:
 
-  ![Image depicting step1-check-scc](step1-check-scc.png)
+ <!-- border --> ![Image depicting step1-check-scc](step1-check-scc.png)
 
 [DONE]
 
