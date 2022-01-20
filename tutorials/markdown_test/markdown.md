@@ -83,7 +83,6 @@ Your configuration should now look like this:
 
  <!-- border --> ![Image depicting step1-check-scc](step1-check-scc.png)
 
-[DONE]
 
 ### Step 2: Add On-Premise System
 1. In your sub-account, **Display Name**, choose **Cloud to On-Premise > Access Control**.
@@ -113,7 +112,6 @@ The mapping should now look something like this. Check that the status = `Reacha
 
 ![Image depicting step1a-scc-resources-sid](step1a-scc-resources-sid.png)  
 
-[DONE]
 
 ---
 
@@ -138,7 +136,6 @@ Now, still in the **Cloud to On-Premise > Access Control** tab, enter the resour
 
 ---
 
-[DONE]
 
 ---
 
@@ -158,5 +155,4 @@ You will now create two destinations in the ABAP Environment. These must be crea
     ![Image depicting step3a-new-destination](step3a-new-destination.png)
 
 
-[DONE]
 
